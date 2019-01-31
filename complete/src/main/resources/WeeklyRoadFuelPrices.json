@@ -1,0 +1,8172 @@
+{
+  "09/06/2003": {
+    "pumpPriceULSP": 74.59,
+    "pumpPriceULSD": 76.77,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "16/06/2003": {
+    "pumpPriceULSP": 74.47,
+    "pumpPriceULSD": 76.69,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "ULSP  and ULSD",
+    "rate": ""
+  },
+  "23/06/2003": {
+    "pumpPriceULSP": 74.42,
+    "pumpPriceULSD": 76.62,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 7 March 2001",
+    "rate": 0.4582
+  },
+  "30/06/2003": {
+    "pumpPriceULSP": 74.35,
+    "pumpPriceULSD": 76.51,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 1 October 2003",
+    "rate": 0.471
+  },
+  "07/07/2003": {
+    "pumpPriceULSP": 74.28,
+    "pumpPriceULSD": 76.46,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 7 December 2006",
+    "rate": 0.4835
+  },
+  "14/07/2003": {
+    "pumpPriceULSP": 74.21,
+    "pumpPriceULSD": 76.41,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 1 October 2007",
+    "rate": 0.5035
+  },
+  "21/07/2003": {
+    "pumpPriceULSP": 75.07,
+    "pumpPriceULSD": 76.9,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 1 December 2008",
+    "rate": 0.5235
+  },
+  "28/07/2003": {
+    "pumpPriceULSP": 75.1,
+    "pumpPriceULSD": 76.86,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 1 April 2009",
+    "rate": 0.5419
+  },
+  "04/08/2003": {
+    "pumpPriceULSP": 75.12,
+    "pumpPriceULSD": 76.81,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 1 September 2009",
+    "rate": 0.5619
+  },
+  "11/08/2003": {
+    "pumpPriceULSP": 75.44,
+    "pumpPriceULSD": 77.08,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 1 April 2010",
+    "rate": 0.5719
+  },
+  "18/08/2003": {
+    "pumpPriceULSP": 75.81,
+    "pumpPriceULSD": 77.44,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 1 October 2010",
+    "rate": 0.5819
+  },
+  "26/08/2003": {
+    "pumpPriceULSP": 76.05,
+    "pumpPriceULSD": 77.68,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 1 January 2011",
+    "rate": 0.5895
+  },
+  "01/09/2003": {
+    "pumpPriceULSP": 76.13,
+    "pumpPriceULSD": 77.59,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "duty rate per litre (£) from 23 March 2011",
+    "rate": 0.5795
+  },
+  "08/09/2003": {
+    "pumpPriceULSP": 76.23,
+    "pumpPriceULSD": 77.67,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/09/2003": {
+    "pumpPriceULSP": 76.2,
+    "pumpPriceULSD": 77.63,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/09/2003": {
+    "pumpPriceULSP": 76.15,
+    "pumpPriceULSD": 77.55,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/09/2003": {
+    "pumpPriceULSP": 76.08,
+    "pumpPriceULSD": 77.53,
+    "dutyRateULSP": 45.82,
+    "dutyRateULSD": 45.82,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/10/2003": {
+    "pumpPriceULSP": 76.43,
+    "pumpPriceULSD": 77.66,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/10/2003": {
+    "pumpPriceULSP": 75.9,
+    "pumpPriceULSD": 77.43,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/10/2003": {
+    "pumpPriceULSP": 76.05,
+    "pumpPriceULSD": 77.54,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/10/2003": {
+    "pumpPriceULSP": 76,
+    "pumpPriceULSD": 77.51,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/11/2003": {
+    "pumpPriceULSP": 76,
+    "pumpPriceULSD": 77.52,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/11/2003": {
+    "pumpPriceULSP": 75.94,
+    "pumpPriceULSD": 77.47,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "17/11/2003": {
+    "pumpPriceULSP": 75.93,
+    "pumpPriceULSD": 77.52,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/11/2003": {
+    "pumpPriceULSP": 76.02,
+    "pumpPriceULSD": 77.67,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/12/2003": {
+    "pumpPriceULSP": 76,
+    "pumpPriceULSD": 77.66,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/12/2003": {
+    "pumpPriceULSP": 75.97,
+    "pumpPriceULSD": 77.63,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/12/2003": {
+    "pumpPriceULSP": 75.96,
+    "pumpPriceULSD": 77.62,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/12/2003": {
+    "pumpPriceULSP": 75.92,
+    "pumpPriceULSD": 77.61,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/12/2003": {
+    "pumpPriceULSP": 75.94,
+    "pumpPriceULSD": 77.6,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/01/2004": {
+    "pumpPriceULSP": 75.88,
+    "pumpPriceULSD": 77.54,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/01/2004": {
+    "pumpPriceULSP": 75.9,
+    "pumpPriceULSD": 77.54,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/01/2004": {
+    "pumpPriceULSP": 76.36,
+    "pumpPriceULSD": 78.06,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/01/2004": {
+    "pumpPriceULSP": 76.44,
+    "pumpPriceULSD": 78.08,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "02/02/2004": {
+    "pumpPriceULSP": 76.48,
+    "pumpPriceULSD": 78.13,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "09/02/2004": {
+    "pumpPriceULSP": 76.5,
+    "pumpPriceULSD": 77.98,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "16/02/2004": {
+    "pumpPriceULSP": 76.44,
+    "pumpPriceULSD": 78,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "23/02/2004": {
+    "pumpPriceULSP": 76.38,
+    "pumpPriceULSD": 77.93,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/03/2004": {
+    "pumpPriceULSP": 76.32,
+    "pumpPriceULSD": 77.87,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/03/2004": {
+    "pumpPriceULSP": 76.73,
+    "pumpPriceULSD": 78.25,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/03/2004": {
+    "pumpPriceULSP": 77.39,
+    "pumpPriceULSD": 78.8,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/03/2004": {
+    "pumpPriceULSP": 77.44,
+    "pumpPriceULSD": 78.92,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/03/2004": {
+    "pumpPriceULSP": 77.59,
+    "pumpPriceULSD": 79.01,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/04/2004": {
+    "pumpPriceULSP": 77.86,
+    "pumpPriceULSD": 79.23,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/04/2004": {
+    "pumpPriceULSP": 77.88,
+    "pumpPriceULSD": 79.27,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/04/2004": {
+    "pumpPriceULSP": 78.04,
+    "pumpPriceULSD": 79.43,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/04/2004": {
+    "pumpPriceULSP": 78.4,
+    "pumpPriceULSD": 79.75,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "04/05/2004": {
+    "pumpPriceULSP": 79.28,
+    "pumpPriceULSD": 80.64,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/05/2004": {
+    "pumpPriceULSP": 80.3,
+    "pumpPriceULSD": 81.68,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "17/05/2004": {
+    "pumpPriceULSP": 81.49,
+    "pumpPriceULSD": 82.83,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/05/2004": {
+    "pumpPriceULSP": 82.13,
+    "pumpPriceULSD": 83.48,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "31/05/2004": {
+    "pumpPriceULSP": 82.35,
+    "pumpPriceULSD": 83.61,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "07/06/2004": {
+    "pumpPriceULSP": 82.44,
+    "pumpPriceULSD": 83.65,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "14/06/2004": {
+    "pumpPriceULSP": 81.54,
+    "pumpPriceULSD": 82.6,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "21/06/2004": {
+    "pumpPriceULSP": 81.04,
+    "pumpPriceULSD": 82.09,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "28/06/2004": {
+    "pumpPriceULSP": 80.41,
+    "pumpPriceULSD": 81.04,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/07/2004": {
+    "pumpPriceULSP": 79.87,
+    "pumpPriceULSD": 80.51,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/07/2004": {
+    "pumpPriceULSP": 80.34,
+    "pumpPriceULSD": 81.05,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/07/2004": {
+    "pumpPriceULSP": 80.84,
+    "pumpPriceULSD": 81.68,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/07/2004": {
+    "pumpPriceULSP": 80.87,
+    "pumpPriceULSD": 81.7,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "02/08/2004": {
+    "pumpPriceULSP": 80.86,
+    "pumpPriceULSD": 81.79,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "09/08/2004": {
+    "pumpPriceULSP": 81.18,
+    "pumpPriceULSD": 82.14,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "16/08/2004": {
+    "pumpPriceULSP": 81.25,
+    "pumpPriceULSD": 82.33,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "23/08/2004": {
+    "pumpPriceULSP": 81.51,
+    "pumpPriceULSD": 82.82,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "31/08/2004": {
+    "pumpPriceULSP": 81.53,
+    "pumpPriceULSD": 82.89,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/09/2004": {
+    "pumpPriceULSP": 81.37,
+    "pumpPriceULSD": 82.92,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/09/2004": {
+    "pumpPriceULSP": 81.31,
+    "pumpPriceULSD": 82.91,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/09/2004": {
+    "pumpPriceULSP": 81.28,
+    "pumpPriceULSD": 83.03,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/09/2004": {
+    "pumpPriceULSP": 81.63,
+    "pumpPriceULSD": 83.46,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "04/10/2004": {
+    "pumpPriceULSP": 82.05,
+    "pumpPriceULSD": 83.84,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "11/10/2004": {
+    "pumpPriceULSP": 83.11,
+    "pumpPriceULSD": 85.01,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/10/2004": {
+    "pumpPriceULSP": 83.35,
+    "pumpPriceULSD": 85.34,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "25/10/2004": {
+    "pumpPriceULSP": 83.94,
+    "pumpPriceULSD": 86.03,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/11/2004": {
+    "pumpPriceULSP": 84.27,
+    "pumpPriceULSD": 86.42,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/11/2004": {
+    "pumpPriceULSP": 84.34,
+    "pumpPriceULSD": 86.54,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/11/2004": {
+    "pumpPriceULSP": 84.26,
+    "pumpPriceULSD": 86.42,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/11/2004": {
+    "pumpPriceULSP": 81.46,
+    "pumpPriceULSD": 85.17,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/11/2004": {
+    "pumpPriceULSP": 84.17,
+    "pumpPriceULSD": 86.36,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/12/2004": {
+    "pumpPriceULSP": 84.06,
+    "pumpPriceULSD": 86.4,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/12/2004": {
+    "pumpPriceULSP": 82.73,
+    "pumpPriceULSD": 85.98,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/12/2004": {
+    "pumpPriceULSP": 81.46,
+    "pumpPriceULSD": 85.17,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/12/2004": {
+    "pumpPriceULSP": 81.2,
+    "pumpPriceULSD": 85.14,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/01/2005": {
+    "pumpPriceULSP": 81.17,
+    "pumpPriceULSD": 85.12,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/01/2005": {
+    "pumpPriceULSP": 79.84,
+    "pumpPriceULSD": 84.87,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "17/01/2005": {
+    "pumpPriceULSP": 78.93,
+    "pumpPriceULSD": 83.94,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/01/2005": {
+    "pumpPriceULSP": 78.93,
+    "pumpPriceULSD": 83.87,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "31/01/2005": {
+    "pumpPriceULSP": 79.54,
+    "pumpPriceULSD": 84.23,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "07/02/2005": {
+    "pumpPriceULSP": 79.84,
+    "pumpPriceULSD": 84.27,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "14/02/2005": {
+    "pumpPriceULSP": 80.03,
+    "pumpPriceULSD": 84.32,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "21/02/2005": {
+    "pumpPriceULSP": 80.15,
+    "pumpPriceULSD": 84.36,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "28/02/2005": {
+    "pumpPriceULSP": 80.45,
+    "pumpPriceULSD": 84.65,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "07/03/2005": {
+    "pumpPriceULSP": 81.16,
+    "pumpPriceULSD": 85.64,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "14/03/2005": {
+    "pumpPriceULSP": 81.64,
+    "pumpPriceULSD": 86.11,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "21/03/2005": {
+    "pumpPriceULSP": 82.7,
+    "pumpPriceULSD": 87.06,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "28/03/2005": {
+    "pumpPriceULSP": 83.4,
+    "pumpPriceULSD": 87.68,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "04/04/2005": {
+    "pumpPriceULSP": 83.91,
+    "pumpPriceULSD": 88.3,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "11/04/2005": {
+    "pumpPriceULSP": 85.61,
+    "pumpPriceULSD": 89.82,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/04/2005": {
+    "pumpPriceULSP": 85.63,
+    "pumpPriceULSD": 89.8,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "25/04/2005": {
+    "pumpPriceULSP": 85.51,
+    "pumpPriceULSD": 89.62,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "02/05/2005": {
+    "pumpPriceULSP": 85.44,
+    "pumpPriceULSD": 89.3,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "09/05/2005": {
+    "pumpPriceULSP": 85.36,
+    "pumpPriceULSD": 89.46,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "16/05/2005": {
+    "pumpPriceULSP": 85.27,
+    "pumpPriceULSD": 89.4,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "23/05/2005": {
+    "pumpPriceULSP": 84.77,
+    "pumpPriceULSD": 89,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "30/05/2005": {
+    "pumpPriceULSP": 84.18,
+    "pumpPriceULSD": 88.39,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/06/2005": {
+    "pumpPriceULSP": 84.01,
+    "pumpPriceULSD": 88.23,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/06/2005": {
+    "pumpPriceULSP": 84.99,
+    "pumpPriceULSD": 88.96,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/06/2005": {
+    "pumpPriceULSP": 85.52,
+    "pumpPriceULSD": 89.54,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/06/2005": {
+    "pumpPriceULSP": 86.73,
+    "pumpPriceULSD": 90.27,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "04/07/2005": {
+    "pumpPriceULSP": 87.49,
+    "pumpPriceULSD": 91,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "11/07/2005": {
+    "pumpPriceULSP": 87.73,
+    "pumpPriceULSD": 91.89,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/07/2005": {
+    "pumpPriceULSP": 88.55,
+    "pumpPriceULSD": 92.67,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "25/07/2005": {
+    "pumpPriceULSP": 89,
+    "pumpPriceULSD": 93.03,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/08/2005": {
+    "pumpPriceULSP": 89.25,
+    "pumpPriceULSD": 93.26,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/08/2005": {
+    "pumpPriceULSP": 89.67,
+    "pumpPriceULSD": 93.63,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/08/2005": {
+    "pumpPriceULSP": 90.56,
+    "pumpPriceULSD": 94.5,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/08/2005": {
+    "pumpPriceULSP": 90.77,
+    "pumpPriceULSD": 94.68,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/08/2005": {
+    "pumpPriceULSP": 91.42,
+    "pumpPriceULSD": 95.33,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/09/2005": {
+    "pumpPriceULSP": 94.37,
+    "pumpPriceULSD": 97.19,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/09/2005": {
+    "pumpPriceULSP": 95.07,
+    "pumpPriceULSD": 97.89,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/09/2005": {
+    "pumpPriceULSP": 94.41,
+    "pumpPriceULSD": 97.32,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/09/2005": {
+    "pumpPriceULSP": 93.33,
+    "pumpPriceULSD": 96.27,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/10/2005": {
+    "pumpPriceULSP": 93.51,
+    "pumpPriceULSD": 96.61,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/10/2005": {
+    "pumpPriceULSP": 94.25,
+    "pumpPriceULSD": 97.05,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "17/10/2005": {
+    "pumpPriceULSP": 94.14,
+    "pumpPriceULSD": 97,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/10/2005": {
+    "pumpPriceULSP": 93.47,
+    "pumpPriceULSD": 96.8,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "31/10/2005": {
+    "pumpPriceULSP": 92.79,
+    "pumpPriceULSD": 96.57,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "07/11/2005": {
+    "pumpPriceULSP": 92.47,
+    "pumpPriceULSD": 96.59,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "14/11/2005": {
+    "pumpPriceULSP": 90.53,
+    "pumpPriceULSD": 94.92,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "21/11/2005": {
+    "pumpPriceULSP": 88.61,
+    "pumpPriceULSD": 93.22,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "28/11/2005": {
+    "pumpPriceULSP": 87.35,
+    "pumpPriceULSD": 91.8,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/12/2005": {
+    "pumpPriceULSP": 87.35,
+    "pumpPriceULSD": 91.8,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/12/2005": {
+    "pumpPriceULSP": 87.2,
+    "pumpPriceULSD": 91.48,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/12/2005": {
+    "pumpPriceULSP": 87.56,
+    "pumpPriceULSD": 91.83,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/12/2005": {
+    "pumpPriceULSP": 87.88,
+    "pumpPriceULSD": 92.12,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "02/01/2006": {
+    "pumpPriceULSP": 88.03,
+    "pumpPriceULSD": 92.27,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "09/01/2006": {
+    "pumpPriceULSP": 88.56,
+    "pumpPriceULSD": 92.94,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "16/01/2006": {
+    "pumpPriceULSP": 89.01,
+    "pumpPriceULSD": 93.19,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "23/01/2006": {
+    "pumpPriceULSP": 89.55,
+    "pumpPriceULSD": 93.62,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "30/01/2006": {
+    "pumpPriceULSP": 89.88,
+    "pumpPriceULSD": 93.93,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/02/2006": {
+    "pumpPriceULSP": 89.73,
+    "pumpPriceULSD": 93.85,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/02/2006": {
+    "pumpPriceULSP": 89.65,
+    "pumpPriceULSD": 93.77,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/02/2006": {
+    "pumpPriceULSP": 89.6,
+    "pumpPriceULSD": 93.75,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/02/2006": {
+    "pumpPriceULSP": 89.51,
+    "pumpPriceULSD": 93.69,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/03/2006": {
+    "pumpPriceULSP": 89.37,
+    "pumpPriceULSD": 93.63,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/03/2006": {
+    "pumpPriceULSP": 89.55,
+    "pumpPriceULSD": 93.85,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/03/2006": {
+    "pumpPriceULSP": 90.19,
+    "pumpPriceULSD": 94.42,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/03/2006": {
+    "pumpPriceULSP": 91.16,
+    "pumpPriceULSD": 94.95,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/04/2006": {
+    "pumpPriceULSP": 91.78,
+    "pumpPriceULSD": 95.64,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/04/2006": {
+    "pumpPriceULSP": 92.77,
+    "pumpPriceULSD": 96.4,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/04/2006": {
+    "pumpPriceULSP": 94.23,
+    "pumpPriceULSD": 97.64,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/04/2006": {
+    "pumpPriceULSP": 95.35,
+    "pumpPriceULSD": 98.5,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/05/2006": {
+    "pumpPriceULSP": 96.13,
+    "pumpPriceULSD": 98.9,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/05/2006": {
+    "pumpPriceULSP": 96.46,
+    "pumpPriceULSD": 98.9,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/05/2006": {
+    "pumpPriceULSP": 96.39,
+    "pumpPriceULSD": 98.74,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/05/2006": {
+    "pumpPriceULSP": 96.1,
+    "pumpPriceULSD": 98.5,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/05/2006": {
+    "pumpPriceULSP": 95.36,
+    "pumpPriceULSD": 97.69,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/06/2006": {
+    "pumpPriceULSP": 95.24,
+    "pumpPriceULSD": 97.55,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/06/2006": {
+    "pumpPriceULSP": 95.49,
+    "pumpPriceULSD": 97.75,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/06/2006": {
+    "pumpPriceULSP": 95.44,
+    "pumpPriceULSD": 97.77,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/06/2006": {
+    "pumpPriceULSP": 94.97,
+    "pumpPriceULSD": 97.36,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/07/2006": {
+    "pumpPriceULSP": 95.27,
+    "pumpPriceULSD": 97.6,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/07/2006": {
+    "pumpPriceULSP": 95.69,
+    "pumpPriceULSD": 97.99,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "17/07/2006": {
+    "pumpPriceULSP": 96.88,
+    "pumpPriceULSD": 98.74,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/07/2006": {
+    "pumpPriceULSP": 97.78,
+    "pumpPriceULSD": 99.41,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "31/07/2006": {
+    "pumpPriceULSP": 97.83,
+    "pumpPriceULSD": 99.41,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "07/08/2006": {
+    "pumpPriceULSP": 98.05,
+    "pumpPriceULSD": 99.57,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "14/08/2006": {
+    "pumpPriceULSP": 97.82,
+    "pumpPriceULSD": 99.45,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "21/08/2006": {
+    "pumpPriceULSP": 95.74,
+    "pumpPriceULSD": 97.93,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "28/08/2006": {
+    "pumpPriceULSP": 94.4,
+    "pumpPriceULSD": 96.67,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "04/09/2006": {
+    "pumpPriceULSP": 92.88,
+    "pumpPriceULSD": 95.92,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "11/09/2006": {
+    "pumpPriceULSP": 91.48,
+    "pumpPriceULSD": 95.34,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/09/2006": {
+    "pumpPriceULSP": 89.78,
+    "pumpPriceULSD": 94.95,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "25/09/2006": {
+    "pumpPriceULSP": 88.2,
+    "pumpPriceULSD": 93.51,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "02/10/2006": {
+    "pumpPriceULSP": 86.95,
+    "pumpPriceULSD": 92.13,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "09/10/2006": {
+    "pumpPriceULSP": 86.6,
+    "pumpPriceULSD": 91.74,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "16/10/2006": {
+    "pumpPriceULSP": 85.91,
+    "pumpPriceULSD": 91.59,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "23/10/2006": {
+    "pumpPriceULSP": 85.74,
+    "pumpPriceULSD": 91.22,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "30/10/2006": {
+    "pumpPriceULSP": 85.6,
+    "pumpPriceULSD": 91.17,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/11/2006": {
+    "pumpPriceULSP": 85.54,
+    "pumpPriceULSD": 91.12,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/11/2006": {
+    "pumpPriceULSP": 85.49,
+    "pumpPriceULSD": 91.15,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/11/2006": {
+    "pumpPriceULSP": 85.45,
+    "pumpPriceULSD": 91.17,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/11/2006": {
+    "pumpPriceULSP": 85.47,
+    "pumpPriceULSD": 91.17,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "04/12/2006": {
+    "pumpPriceULSP": 85.46,
+    "pumpPriceULSD": 91.5,
+    "dutyRateULSP": 47.1,
+    "dutyRateULSD": 47.1,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "11/12/2006": {
+    "pumpPriceULSP": 87.44,
+    "pumpPriceULSD": 92.96,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/12/2006": {
+    "pumpPriceULSP": 87.7,
+    "pumpPriceULSD": 93.26,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "25/12/2006": {
+    "pumpPriceULSP": 87.9,
+    "pumpPriceULSD": 93.41,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/01/2007": {
+    "pumpPriceULSP": 87.85,
+    "pumpPriceULSD": 93.4,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/01/2007": {
+    "pumpPriceULSP": 87.66,
+    "pumpPriceULSD": 93.11,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/01/2007": {
+    "pumpPriceULSP": 87.1,
+    "pumpPriceULSD": 91.55,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/01/2007": {
+    "pumpPriceULSP": 86.28,
+    "pumpPriceULSD": 90.45,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/01/2007": {
+    "pumpPriceULSP": 85.66,
+    "pumpPriceULSD": 89.7,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/02/2007": {
+    "pumpPriceULSP": 85.62,
+    "pumpPriceULSD": 89.63,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/02/2007": {
+    "pumpPriceULSP": 86.12,
+    "pumpPriceULSD": 90.11,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/02/2007": {
+    "pumpPriceULSP": 86.6,
+    "pumpPriceULSD": 90.55,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/02/2007": {
+    "pumpPriceULSP": 87.07,
+    "pumpPriceULSD": 91.02,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/03/2007": {
+    "pumpPriceULSP": 87.74,
+    "pumpPriceULSD": 91.59,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/03/2007": {
+    "pumpPriceULSP": 88.48,
+    "pumpPriceULSD": 92.17,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/03/2007": {
+    "pumpPriceULSP": 88.93,
+    "pumpPriceULSD": 92.61,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/03/2007": {
+    "pumpPriceULSP": 89.32,
+    "pumpPriceULSD": 92.91,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "02/04/2007": {
+    "pumpPriceULSP": 90.47,
+    "pumpPriceULSD": 93.9,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/04/2007": {
+    "pumpPriceULSP": 91.18,
+    "pumpPriceULSD": 94.33,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "16/04/2007": {
+    "pumpPriceULSP": 91.99,
+    "pumpPriceULSD": 94.86,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "23/04/2007": {
+    "pumpPriceULSP": 92.93,
+    "pumpPriceULSD": 95.39,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "30/04/2007": {
+    "pumpPriceULSP": 93.45,
+    "pumpPriceULSD": 95.71,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "07/05/2007": {
+    "pumpPriceULSP": 94.43,
+    "pumpPriceULSD": 96.12,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "14/05/2007": {
+    "pumpPriceULSP": 95.07,
+    "pumpPriceULSD": 96.47,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "21/05/2007": {
+    "pumpPriceULSP": 95.71,
+    "pumpPriceULSD": 96.69,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "28/05/2007": {
+    "pumpPriceULSP": 96.16,
+    "pumpPriceULSD": 96.99,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "04/06/2007": {
+    "pumpPriceULSP": 96.51,
+    "pumpPriceULSD": 97.19,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "11/06/2007": {
+    "pumpPriceULSP": 96.61,
+    "pumpPriceULSD": 97.2,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/06/2007": {
+    "pumpPriceULSP": 96.56,
+    "pumpPriceULSD": 97.11,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "25/06/2007": {
+    "pumpPriceULSP": 96.54,
+    "pumpPriceULSD": 97.12,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "02/07/2007": {
+    "pumpPriceULSP": 96.36,
+    "pumpPriceULSD": 96.89,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "09/07/2007": {
+    "pumpPriceULSP": 96.2,
+    "pumpPriceULSD": 96.78,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "16/07/2007": {
+    "pumpPriceULSP": 96.21,
+    "pumpPriceULSD": 96.79,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "23/07/2007": {
+    "pumpPriceULSP": 96.23,
+    "pumpPriceULSD": 96.83,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "30/07/2007": {
+    "pumpPriceULSP": 96.2,
+    "pumpPriceULSD": 96.77,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/08/2007": {
+    "pumpPriceULSP": 96.15,
+    "pumpPriceULSD": 96.72,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/08/2007": {
+    "pumpPriceULSP": 96,
+    "pumpPriceULSD": 96.7,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/08/2007": {
+    "pumpPriceULSP": 95.31,
+    "pumpPriceULSD": 96.59,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/08/2007": {
+    "pumpPriceULSP": 95,
+    "pumpPriceULSD": 96.37,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/09/2007": {
+    "pumpPriceULSP": 94.8,
+    "pumpPriceULSD": 96.37,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/09/2007": {
+    "pumpPriceULSP": 94.63,
+    "pumpPriceULSD": 96.34,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "17/09/2007": {
+    "pumpPriceULSP": 94.65,
+    "pumpPriceULSD": 96.45,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/09/2007": {
+    "pumpPriceULSP": 94.91,
+    "pumpPriceULSD": 96.9,
+    "dutyRateULSP": 48.35,
+    "dutyRateULSD": 48.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/10/2007": {
+    "pumpPriceULSP": 96.39,
+    "pumpPriceULSD": 98.51,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/10/2007": {
+    "pumpPriceULSP": 97.14,
+    "pumpPriceULSD": 99.1,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/10/2007": {
+    "pumpPriceULSP": 97.19,
+    "pumpPriceULSD": 99.18,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/10/2007": {
+    "pumpPriceULSP": 97.81,
+    "pumpPriceULSD": 99.89,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/10/2007": {
+    "pumpPriceULSP": 98.26,
+    "pumpPriceULSD": 100.69,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/11/2007": {
+    "pumpPriceULSP": 99.36,
+    "pumpPriceULSD": 102.16,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/11/2007": {
+    "pumpPriceULSP": 100.74,
+    "pumpPriceULSD": 104.17,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/11/2007": {
+    "pumpPriceULSP": 101.47,
+    "pumpPriceULSD": 105.28,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/11/2007": {
+    "pumpPriceULSP": 102.13,
+    "pumpPriceULSD": 106.25,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/12/2007": {
+    "pumpPriceULSP": 102.58,
+    "pumpPriceULSD": 107.19,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/12/2007": {
+    "pumpPriceULSP": 102.67,
+    "pumpPriceULSD": 107.47,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "17/12/2007": {
+    "pumpPriceULSP": 102.6,
+    "pumpPriceULSD": 107.56,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/12/2007": {
+    "pumpPriceULSP": 102.53,
+    "pumpPriceULSD": 107.5,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "31/12/2007": {
+    "pumpPriceULSP": 102.66,
+    "pumpPriceULSD": 107.61,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "07/01/2008": {
+    "pumpPriceULSP": 103.37,
+    "pumpPriceULSD": 108.29,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "14/01/2008": {
+    "pumpPriceULSP": 103.82,
+    "pumpPriceULSD": 108.77,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "21/01/2008": {
+    "pumpPriceULSP": 104.22,
+    "pumpPriceULSD": 109.09,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "28/01/2008": {
+    "pumpPriceULSP": 104.22,
+    "pumpPriceULSD": 109.11,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "04/02/2008": {
+    "pumpPriceULSP": 104.03,
+    "pumpPriceULSD": 108.99,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "11/02/2008": {
+    "pumpPriceULSP": 103.67,
+    "pumpPriceULSD": 108.86,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/02/2008": {
+    "pumpPriceULSP": 103.7,
+    "pumpPriceULSD": 108.99,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "25/02/2008": {
+    "pumpPriceULSP": 104.65,
+    "pumpPriceULSD": 110.21,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/03/2008": {
+    "pumpPriceULSP": 105.24,
+    "pumpPriceULSD": 110.9,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/03/2008": {
+    "pumpPriceULSP": 105.96,
+    "pumpPriceULSD": 112.23,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "17/03/2008": {
+    "pumpPriceULSP": 106.41,
+    "pumpPriceULSD": 113.08,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/03/2008": {
+    "pumpPriceULSP": 106.9,
+    "pumpPriceULSD": 114.4,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "31/03/2008": {
+    "pumpPriceULSP": 107.1,
+    "pumpPriceULSD": 114.79,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "07/04/2008": {
+    "pumpPriceULSP": 107.24,
+    "pumpPriceULSD": 115.47,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "14/04/2008": {
+    "pumpPriceULSP": 107.61,
+    "pumpPriceULSD": 116.51,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "21/04/2008": {
+    "pumpPriceULSP": 108.57,
+    "pumpPriceULSD": 118.06,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "28/04/2008": {
+    "pumpPriceULSP": 109.5,
+    "pumpPriceULSD": 119.1,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/05/2008": {
+    "pumpPriceULSP": 110.3,
+    "pumpPriceULSD": 120.37,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/05/2008": {
+    "pumpPriceULSP": 111.04,
+    "pumpPriceULSD": 121.49,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/05/2008": {
+    "pumpPriceULSP": 112.96,
+    "pumpPriceULSD": 124.5,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/05/2008": {
+    "pumpPriceULSP": 114.79,
+    "pumpPriceULSD": 127.21,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "02/06/2008": {
+    "pumpPriceULSP": 116.03,
+    "pumpPriceULSD": 128.82,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "09/06/2008": {
+    "pumpPriceULSP": 116.86,
+    "pumpPriceULSD": 129.68,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "16/06/2008": {
+    "pumpPriceULSP": 117.69,
+    "pumpPriceULSD": 130.66,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "23/06/2008": {
+    "pumpPriceULSP": 118.44,
+    "pumpPriceULSD": 131.45,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "30/06/2008": {
+    "pumpPriceULSP": 118.84,
+    "pumpPriceULSD": 132.03,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "07/07/2008": {
+    "pumpPriceULSP": 119.28,
+    "pumpPriceULSD": 132.55,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "14/07/2008": {
+    "pumpPriceULSP": 119.44,
+    "pumpPriceULSD": 132.87,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "21/07/2008": {
+    "pumpPriceULSP": 119.4,
+    "pumpPriceULSD": 132.89,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "28/07/2008": {
+    "pumpPriceULSP": 116.91,
+    "pumpPriceULSD": 130.71,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "04/08/2008": {
+    "pumpPriceULSP": 115.06,
+    "pumpPriceULSD": 128.19,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "11/08/2008": {
+    "pumpPriceULSP": 113.92,
+    "pumpPriceULSD": 126.2,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/08/2008": {
+    "pumpPriceULSP": 112.22,
+    "pumpPriceULSD": 124.1,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "25/08/2008": {
+    "pumpPriceULSP": 112.02,
+    "pumpPriceULSD": 123.74,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/09/2008": {
+    "pumpPriceULSP": 112.2,
+    "pumpPriceULSD": 123.89,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/09/2008": {
+    "pumpPriceULSP": 112.55,
+    "pumpPriceULSD": 124.2,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/09/2008": {
+    "pumpPriceULSP": 112.51,
+    "pumpPriceULSD": 124.14,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/09/2008": {
+    "pumpPriceULSP": 110.81,
+    "pumpPriceULSD": 122.61,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/09/2008": {
+    "pumpPriceULSP": 109.85,
+    "pumpPriceULSD": 121.65,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/10/2008": {
+    "pumpPriceULSP": 109.45,
+    "pumpPriceULSD": 121.14,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/10/2008": {
+    "pumpPriceULSP": 107.04,
+    "pumpPriceULSD": 118.42,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/10/2008": {
+    "pumpPriceULSP": 102.66,
+    "pumpPriceULSD": 114.31,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/10/2008": {
+    "pumpPriceULSP": 98.62,
+    "pumpPriceULSD": 111.01,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/11/2008": {
+    "pumpPriceULSP": 97.4,
+    "pumpPriceULSD": 109.87,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/11/2008": {
+    "pumpPriceULSP": 95.89,
+    "pumpPriceULSD": 109.13,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "17/11/2008": {
+    "pumpPriceULSP": 94.83,
+    "pumpPriceULSD": 108.73,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/11/2008": {
+    "pumpPriceULSP": 92.79,
+    "pumpPriceULSD": 107.78,
+    "dutyRateULSP": 50.35,
+    "dutyRateULSD": 50.35,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/12/2008": {
+    "pumpPriceULSP": 91.47,
+    "pumpPriceULSD": 106.56,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "08/12/2008": {
+    "pumpPriceULSP": 90.16,
+    "pumpPriceULSD": 104.87,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "15/12/2008": {
+    "pumpPriceULSP": 89.07,
+    "pumpPriceULSD": 101.24,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "22/12/2008": {
+    "pumpPriceULSP": 88.01,
+    "pumpPriceULSD": 99.94,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "29/12/2008": {
+    "pumpPriceULSP": 87.34,
+    "pumpPriceULSD": 99.17,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "05/01/2009": {
+    "pumpPriceULSP": 85.42,
+    "pumpPriceULSD": 97.57,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "12/01/2009": {
+    "pumpPriceULSP": 86.02,
+    "pumpPriceULSD": 98.32,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "19/01/2009": {
+    "pumpPriceULSP": 86.19,
+    "pumpPriceULSD": 98.45,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "26/01/2009": {
+    "pumpPriceULSP": 87.42,
+    "pumpPriceULSD": 99.39,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "02/02/2009": {
+    "pumpPriceULSP": 88.16,
+    "pumpPriceULSD": 99.82,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "09/02/2009": {
+    "pumpPriceULSP": 89.28,
+    "pumpPriceULSD": 100.31,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "16/02/2009": {
+    "pumpPriceULSP": 90.12,
+    "pumpPriceULSD": 100.86,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "23/02/2009": {
+    "pumpPriceULSP": 90.33,
+    "pumpPriceULSD": 100.81,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "02/03/2009": {
+    "pumpPriceULSP": 90.28,
+    "pumpPriceULSD": 100.64,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "09/03/2009": {
+    "pumpPriceULSP": 90.15,
+    "pumpPriceULSD": 100.03,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "16/03/2009": {
+    "pumpPriceULSP": 90.16,
+    "pumpPriceULSD": 100,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "23/03/2009": {
+    "pumpPriceULSP": 90.16,
+    "pumpPriceULSD": 99.52,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "30/03/2009": {
+    "pumpPriceULSP": 91.35,
+    "pumpPriceULSD": 99.98,
+    "dutyRateULSP": 52.35,
+    "dutyRateULSD": 52.35,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "06/04/2009": {
+    "pumpPriceULSP": 93.72,
+    "pumpPriceULSD": 102.14,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "13/04/2009": {
+    "pumpPriceULSP": 94.11,
+    "pumpPriceULSD": 102.44,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "20/04/2009": {
+    "pumpPriceULSP": 94.62,
+    "pumpPriceULSD": 102.71,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "27/04/2009": {
+    "pumpPriceULSP": 95.13,
+    "pumpPriceULSD": 102.83,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "04/05/2009": {
+    "pumpPriceULSP": 95.6,
+    "pumpPriceULSD": 102.8,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "11/05/2009": {
+    "pumpPriceULSP": 96.59,
+    "pumpPriceULSD": 103.1,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "18/05/2009": {
+    "pumpPriceULSP": 97.54,
+    "pumpPriceULSD": 103.37,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "25/05/2009": {
+    "pumpPriceULSP": 98.9,
+    "pumpPriceULSD": 103.55,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "01/06/2009": {
+    "pumpPriceULSP": 99.39,
+    "pumpPriceULSD": 103.55,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "08/06/2009": {
+    "pumpPriceULSP": 100.59,
+    "pumpPriceULSD": 103.78,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "15/06/2009": {
+    "pumpPriceULSP": 101.98,
+    "pumpPriceULSD": 104.5,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "22/06/2009": {
+    "pumpPriceULSP": 102.81,
+    "pumpPriceULSD": 104.92,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "29/06/2009": {
+    "pumpPriceULSP": 103.3,
+    "pumpPriceULSD": 105.05,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "06/07/2009": {
+    "pumpPriceULSP": 103.57,
+    "pumpPriceULSD": 105.11,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "13/07/2009": {
+    "pumpPriceULSP": 102.78,
+    "pumpPriceULSD": 104.04,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "20/07/2009": {
+    "pumpPriceULSP": 102.22,
+    "pumpPriceULSD": 102.99,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "27/07/2009": {
+    "pumpPriceULSP": 102.17,
+    "pumpPriceULSD": 102.91,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "03/08/2009": {
+    "pumpPriceULSP": 102.36,
+    "pumpPriceULSD": 103.2,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "10/08/2009": {
+    "pumpPriceULSP": 103.01,
+    "pumpPriceULSD": 103.79,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "17/08/2009": {
+    "pumpPriceULSP": 103.96,
+    "pumpPriceULSD": 104.45,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "24/08/2009": {
+    "pumpPriceULSP": 104.7,
+    "pumpPriceULSD": 105.11,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "31/08/2009": {
+    "pumpPriceULSP": 105.11,
+    "pumpPriceULSD": 105.5,
+    "dutyRateULSP": 54.19,
+    "dutyRateULSD": 54.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "07/09/2009": {
+    "pumpPriceULSP": 106.85,
+    "pumpPriceULSD": 107.3,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "14/09/2009": {
+    "pumpPriceULSP": 106.43,
+    "pumpPriceULSD": 107.09,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "21/09/2009": {
+    "pumpPriceULSP": 105.96,
+    "pumpPriceULSD": 106.79,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "28/09/2009": {
+    "pumpPriceULSP": 105.44,
+    "pumpPriceULSD": 106.39,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "05/10/2009": {
+    "pumpPriceULSP": 104.87,
+    "pumpPriceULSD": 105.85,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "12/10/2009": {
+    "pumpPriceULSP": 104.71,
+    "pumpPriceULSD": 105.69,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "19/10/2009": {
+    "pumpPriceULSP": 105.08,
+    "pumpPriceULSD": 106.28,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "26/10/2009": {
+    "pumpPriceULSP": 106.76,
+    "pumpPriceULSD": 107.78,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "02/11/2009": {
+    "pumpPriceULSP": 107.43,
+    "pumpPriceULSD": 108.51,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "09/11/2009": {
+    "pumpPriceULSP": 108.1,
+    "pumpPriceULSD": 109.35,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "16/11/2009": {
+    "pumpPriceULSP": 108.48,
+    "pumpPriceULSD": 109.65,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "23/11/2009": {
+    "pumpPriceULSP": 108.73,
+    "pumpPriceULSD": 109.87,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "30/11/2009": {
+    "pumpPriceULSP": 108.79,
+    "pumpPriceULSD": 109.99,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "07/12/2009": {
+    "pumpPriceULSP": 108.64,
+    "pumpPriceULSD": 109.87,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "14/12/2009": {
+    "pumpPriceULSP": 108.5,
+    "pumpPriceULSD": 109.57,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "21/12/2009": {
+    "pumpPriceULSP": 107.47,
+    "pumpPriceULSD": 109.13,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "28/12/2009": {
+    "pumpPriceULSP": 107.44,
+    "pumpPriceULSD": 109.17,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 15,
+    "vatRateULSD": 15,
+    "notes": "",
+    "rate": ""
+  },
+  "04/01/2010": {
+    "pumpPriceULSP": 109.34,
+    "pumpPriceULSD": 111.08,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "11/01/2010": {
+    "pumpPriceULSP": 110.72,
+    "pumpPriceULSD": 112.59,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/01/2010": {
+    "pumpPriceULSP": 111.6,
+    "pumpPriceULSD": 113.39,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "25/01/2010": {
+    "pumpPriceULSP": 111.87,
+    "pumpPriceULSD": 113.71,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/02/2010": {
+    "pumpPriceULSP": 111.91,
+    "pumpPriceULSD": 113.75,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/02/2010": {
+    "pumpPriceULSP": 111.95,
+    "pumpPriceULSD": 113.79,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/02/2010": {
+    "pumpPriceULSP": 111.89,
+    "pumpPriceULSD": 113.68,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/02/2010": {
+    "pumpPriceULSP": 111.56,
+    "pumpPriceULSD": 112.76,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/03/2010": {
+    "pumpPriceULSP": 112.42,
+    "pumpPriceULSD": 113.41,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/03/2010": {
+    "pumpPriceULSP": 113.71,
+    "pumpPriceULSD": 114.68,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/03/2010": {
+    "pumpPriceULSP": 115.46,
+    "pumpPriceULSD": 116.21,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/03/2010": {
+    "pumpPriceULSP": 116.59,
+    "pumpPriceULSD": 117.28,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/03/2010": {
+    "pumpPriceULSP": 117.28,
+    "pumpPriceULSD": 118.21,
+    "dutyRateULSP": 56.19,
+    "dutyRateULSD": 56.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/04/2010": {
+    "pumpPriceULSP": 119.29,
+    "pumpPriceULSD": 120.09,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/04/2010": {
+    "pumpPriceULSP": 119.94,
+    "pumpPriceULSD": 121.11,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/04/2010": {
+    "pumpPriceULSP": 120.55,
+    "pumpPriceULSD": 121.74,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/04/2010": {
+    "pumpPriceULSP": 120.99,
+    "pumpPriceULSD": 122.31,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/05/2010": {
+    "pumpPriceULSP": 121.18,
+    "pumpPriceULSD": 122.68,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/05/2010": {
+    "pumpPriceULSP": 121.31,
+    "pumpPriceULSD": 122.82,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "17/05/2010": {
+    "pumpPriceULSP": 121.3,
+    "pumpPriceULSD": 122.83,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "24/05/2010": {
+    "pumpPriceULSP": 119.93,
+    "pumpPriceULSD": 121.92,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "31/05/2010": {
+    "pumpPriceULSP": 118.54,
+    "pumpPriceULSD": 120.76,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "07/06/2010": {
+    "pumpPriceULSP": 118.2,
+    "pumpPriceULSD": 120.4,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "14/06/2010": {
+    "pumpPriceULSP": 117.87,
+    "pumpPriceULSD": 120.21,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "21/06/2010": {
+    "pumpPriceULSP": 117.8,
+    "pumpPriceULSD": 120.39,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "28/06/2010": {
+    "pumpPriceULSP": 117.88,
+    "pumpPriceULSD": 120.38,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "05/07/2010": {
+    "pumpPriceULSP": 117.91,
+    "pumpPriceULSD": 120.44,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "12/07/2010": {
+    "pumpPriceULSP": 117.39,
+    "pumpPriceULSD": 119.78,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "19/07/2010": {
+    "pumpPriceULSP": 116.85,
+    "pumpPriceULSD": 119.24,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "26/07/2010": {
+    "pumpPriceULSP": 116.61,
+    "pumpPriceULSD": 119.03,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "02/08/2010": {
+    "pumpPriceULSP": 116.51,
+    "pumpPriceULSD": 119.03,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "09/08/2010": {
+    "pumpPriceULSP": 116.35,
+    "pumpPriceULSD": 118.94,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "16/08/2010": {
+    "pumpPriceULSP": 116.34,
+    "pumpPriceULSD": 118.79,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "23/08/2010": {
+    "pumpPriceULSP": 115.64,
+    "pumpPriceULSD": 117.9,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "30/08/2010": {
+    "pumpPriceULSP": 114.98,
+    "pumpPriceULSD": 117.37,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/09/2010": {
+    "pumpPriceULSP": 114.59,
+    "pumpPriceULSD": 117.09,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/09/2010": {
+    "pumpPriceULSP": 114.66,
+    "pumpPriceULSD": 117.17,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/09/2010": {
+    "pumpPriceULSP": 115.06,
+    "pumpPriceULSD": 117.72,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/09/2010": {
+    "pumpPriceULSP": 115.39,
+    "pumpPriceULSD": 118.11,
+    "dutyRateULSP": 57.19,
+    "dutyRateULSD": 57.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "04/10/2010": {
+    "pumpPriceULSP": 116.01,
+    "pumpPriceULSD": 118.97,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "11/10/2010": {
+    "pumpPriceULSP": 116.78,
+    "pumpPriceULSD": 119.77,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "18/10/2010": {
+    "pumpPriceULSP": 117.28,
+    "pumpPriceULSD": 120.6,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "25/10/2010": {
+    "pumpPriceULSP": 117.74,
+    "pumpPriceULSD": 121.17,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "01/11/2010": {
+    "pumpPriceULSP": 118.18,
+    "pumpPriceULSD": 121.66,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "08/11/2010": {
+    "pumpPriceULSP": 118.67,
+    "pumpPriceULSD": 122.19,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "15/11/2010": {
+    "pumpPriceULSP": 118.8,
+    "pumpPriceULSD": 122.51,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "22/11/2010": {
+    "pumpPriceULSP": 118.99,
+    "pumpPriceULSD": 122.74,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "29/11/2010": {
+    "pumpPriceULSP": 119.21,
+    "pumpPriceULSD": 123.2,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "06/12/2010": {
+    "pumpPriceULSP": 120.54,
+    "pumpPriceULSD": 124.62,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "13/12/2010": {
+    "pumpPriceULSP": 121.68,
+    "pumpPriceULSD": 125.77,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "20/12/2010": {
+    "pumpPriceULSP": 122.31,
+    "pumpPriceULSD": 126.52,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "27/12/2010": {
+    "pumpPriceULSP": 123.44,
+    "pumpPriceULSD": 127.68,
+    "dutyRateULSP": 58.19,
+    "dutyRateULSD": 58.19,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "03/01/2011": {
+    "pumpPriceULSP": 124.85,
+    "pumpPriceULSD": 129.11,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 17.5,
+    "vatRateULSD": 17.5,
+    "notes": "",
+    "rate": ""
+  },
+  "10/01/2011": {
+    "pumpPriceULSP": 127.4,
+    "pumpPriceULSD": 131.6,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/01/2011": {
+    "pumpPriceULSP": 127.87,
+    "pumpPriceULSD": 132.33,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/01/2011": {
+    "pumpPriceULSP": 128.35,
+    "pumpPriceULSD": 133,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "31/01/2011": {
+    "pumpPriceULSP": 128.55,
+    "pumpPriceULSD": 133.25,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/02/2011": {
+    "pumpPriceULSP": 128.64,
+    "pumpPriceULSD": 133.47,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/02/2011": {
+    "pumpPriceULSP": 128.73,
+    "pumpPriceULSD": 133.71,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/02/2011": {
+    "pumpPriceULSP": 128.92,
+    "pumpPriceULSD": 134.04,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/02/2011": {
+    "pumpPriceULSP": 129.72,
+    "pumpPriceULSD": 135.06,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/03/2011": {
+    "pumpPriceULSP": 131.28,
+    "pumpPriceULSD": 136.9,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/03/2011": {
+    "pumpPriceULSP": 132.18,
+    "pumpPriceULSD": 138.25,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/03/2011": {
+    "pumpPriceULSP": 133.11,
+    "pumpPriceULSD": 139.53,
+    "dutyRateULSP": 58.95,
+    "dutyRateULSD": 58.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/03/2011": {
+    "pumpPriceULSP": 132.44,
+    "pumpPriceULSD": 139.04,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/04/2011": {
+    "pumpPriceULSP": 132.81,
+    "pumpPriceULSD": 139.46,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/04/2011": {
+    "pumpPriceULSP": 133.68,
+    "pumpPriceULSD": 140.33,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/04/2011": {
+    "pumpPriceULSP": 135.06,
+    "pumpPriceULSD": 141.34,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/04/2011": {
+    "pumpPriceULSP": 135.62,
+    "pumpPriceULSD": 142.11,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/05/2011": {
+    "pumpPriceULSP": 136.29,
+    "pumpPriceULSD": 142.53,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/05/2011": {
+    "pumpPriceULSP": 137.05,
+    "pumpPriceULSD": 143.06,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/05/2011": {
+    "pumpPriceULSP": 136.4,
+    "pumpPriceULSD": 141.5,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/05/2011": {
+    "pumpPriceULSP": 136.11,
+    "pumpPriceULSD": 140.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/05/2011": {
+    "pumpPriceULSP": 135.57,
+    "pumpPriceULSD": 139.81,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/06/2011": {
+    "pumpPriceULSP": 135.62,
+    "pumpPriceULSD": 139.58,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/06/2011": {
+    "pumpPriceULSP": 135.86,
+    "pumpPriceULSD": 139.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/06/2011": {
+    "pumpPriceULSP": 136.03,
+    "pumpPriceULSD": 140.05,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/06/2011": {
+    "pumpPriceULSP": 134.86,
+    "pumpPriceULSD": 138.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/07/2011": {
+    "pumpPriceULSP": 133.43,
+    "pumpPriceULSD": 137.7,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/07/2011": {
+    "pumpPriceULSP": 134.18,
+    "pumpPriceULSD": 138.4,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/07/2011": {
+    "pumpPriceULSP": 134.97,
+    "pumpPriceULSD": 139.36,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/07/2011": {
+    "pumpPriceULSP": 135.66,
+    "pumpPriceULSD": 139.95,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/08/2011": {
+    "pumpPriceULSP": 136.07,
+    "pumpPriceULSD": 140.55,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/08/2011": {
+    "pumpPriceULSP": 136.46,
+    "pumpPriceULSD": 140.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/08/2011": {
+    "pumpPriceULSP": 135.95,
+    "pumpPriceULSD": 140.36,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/08/2011": {
+    "pumpPriceULSP": 134.56,
+    "pumpPriceULSD": 139.04,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/08/2011": {
+    "pumpPriceULSP": 134.32,
+    "pumpPriceULSD": 138.72,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/09/2011": {
+    "pumpPriceULSP": 134.62,
+    "pumpPriceULSD": 138.96,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/09/2011": {
+    "pumpPriceULSP": 135,
+    "pumpPriceULSD": 139.4,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/09/2011": {
+    "pumpPriceULSP": 135.4,
+    "pumpPriceULSD": 139.86,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/09/2011": {
+    "pumpPriceULSP": 135.65,
+    "pumpPriceULSD": 140.14,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/10/2011": {
+    "pumpPriceULSP": 135.02,
+    "pumpPriceULSD": 139.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/10/2011": {
+    "pumpPriceULSP": 134.47,
+    "pumpPriceULSD": 139.52,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/10/2011": {
+    "pumpPriceULSP": 134.49,
+    "pumpPriceULSD": 139.73,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/10/2011": {
+    "pumpPriceULSP": 134.66,
+    "pumpPriceULSD": 140.19,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "31/10/2011": {
+    "pumpPriceULSP": 134.73,
+    "pumpPriceULSD": 140.27,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/11/2011": {
+    "pumpPriceULSP": 134.41,
+    "pumpPriceULSD": 140.42,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/11/2011": {
+    "pumpPriceULSP": 133.68,
+    "pumpPriceULSD": 140.53,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/11/2011": {
+    "pumpPriceULSP": 133.38,
+    "pumpPriceULSD": 141.06,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/11/2011": {
+    "pumpPriceULSP": 133.17,
+    "pumpPriceULSD": 141.1,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/12/2011": {
+    "pumpPriceULSP": 132.78,
+    "pumpPriceULSD": 140.99,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/12/2011": {
+    "pumpPriceULSP": 132.53,
+    "pumpPriceULSD": 140.95,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/12/2011": {
+    "pumpPriceULSP": 132.49,
+    "pumpPriceULSD": 140.93,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/12/2011": {
+    "pumpPriceULSP": 132.41,
+    "pumpPriceULSD": 140.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/01/2012": {
+    "pumpPriceULSP": 132.4,
+    "pumpPriceULSD": 140.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/01/2012": {
+    "pumpPriceULSP": 132.68,
+    "pumpPriceULSD": 141,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/01/2012": {
+    "pumpPriceULSP": 133.29,
+    "pumpPriceULSD": 141.69,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/01/2012": {
+    "pumpPriceULSP": 133.72,
+    "pumpPriceULSD": 142.06,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/01/2012": {
+    "pumpPriceULSP": 134.1,
+    "pumpPriceULSD": 142.45,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/02/2012": {
+    "pumpPriceULSP": 134.25,
+    "pumpPriceULSD": 142.24,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/02/2012": {
+    "pumpPriceULSP": 134.9,
+    "pumpPriceULSD": 142.83,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/02/2012": {
+    "pumpPriceULSP": 135.21,
+    "pumpPriceULSD": 143.15,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/02/2012": {
+    "pumpPriceULSP": 136.21,
+    "pumpPriceULSD": 143.92,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/03/2012": {
+    "pumpPriceULSP": 137.3,
+    "pumpPriceULSD": 144.71,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/03/2012": {
+    "pumpPriceULSP": 137.9,
+    "pumpPriceULSD": 145.15,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/03/2012": {
+    "pumpPriceULSP": 138.96,
+    "pumpPriceULSD": 146.16,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/03/2012": {
+    "pumpPriceULSP": 139.48,
+    "pumpPriceULSD": 146.56,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/04/2012": {
+    "pumpPriceULSP": 140.99,
+    "pumpPriceULSD": 147.68,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/04/2012": {
+    "pumpPriceULSP": 141.97,
+    "pumpPriceULSD": 148,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/04/2012": {
+    "pumpPriceULSP": 142.17,
+    "pumpPriceULSD": 148.04,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/04/2012": {
+    "pumpPriceULSP": 141.76,
+    "pumpPriceULSD": 147.96,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/04/2012": {
+    "pumpPriceULSP": 141,
+    "pumpPriceULSD": 147.05,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/05/2012": {
+    "pumpPriceULSP": 140.14,
+    "pumpPriceULSD": 146.4,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/05/2012": {
+    "pumpPriceULSP": 138.29,
+    "pumpPriceULSD": 144.52,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/05/2012": {
+    "pumpPriceULSP": 135.77,
+    "pumpPriceULSD": 141.75,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/05/2012": {
+    "pumpPriceULSP": 134.37,
+    "pumpPriceULSD": 140.49,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/06/2012": {
+    "pumpPriceULSP": 134.06,
+    "pumpPriceULSD": 139.96,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/06/2012": {
+    "pumpPriceULSP": 133.67,
+    "pumpPriceULSD": 139.58,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/06/2012": {
+    "pumpPriceULSP": 131.99,
+    "pumpPriceULSD": 137.71,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/06/2012": {
+    "pumpPriceULSP": 131.55,
+    "pumpPriceULSD": 137.2,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/07/2012": {
+    "pumpPriceULSP": 130.5,
+    "pumpPriceULSD": 135.91,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/07/2012": {
+    "pumpPriceULSP": 131.06,
+    "pumpPriceULSD": 136.44,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/07/2012": {
+    "pumpPriceULSP": 131.49,
+    "pumpPriceULSD": 136.85,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/07/2012": {
+    "pumpPriceULSP": 132.21,
+    "pumpPriceULSD": 137.72,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/07/2012": {
+    "pumpPriceULSP": 132.78,
+    "pumpPriceULSD": 138.25,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/08/2012": {
+    "pumpPriceULSP": 133.39,
+    "pumpPriceULSD": 138.79,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/08/2012": {
+    "pumpPriceULSP": 134.27,
+    "pumpPriceULSD": 139.46,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/08/2012": {
+    "pumpPriceULSP": 135.72,
+    "pumpPriceULSD": 140.79,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/08/2012": {
+    "pumpPriceULSP": 137.1,
+    "pumpPriceULSD": 142.17,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/09/2012": {
+    "pumpPriceULSP": 138.03,
+    "pumpPriceULSD": 142.87,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/09/2012": {
+    "pumpPriceULSP": 138.91,
+    "pumpPriceULSD": 143.66,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/09/2012": {
+    "pumpPriceULSP": 139.42,
+    "pumpPriceULSD": 144.18,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/09/2012": {
+    "pumpPriceULSP": 139.54,
+    "pumpPriceULSD": 144.36,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/10/2012": {
+    "pumpPriceULSP": 138.43,
+    "pumpPriceULSD": 143.28,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/10/2012": {
+    "pumpPriceULSP": 138.24,
+    "pumpPriceULSD": 143.05,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/10/2012": {
+    "pumpPriceULSP": 138.35,
+    "pumpPriceULSD": 143.23,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/10/2012": {
+    "pumpPriceULSP": 138.29,
+    "pumpPriceULSD": 143.23,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/10/2012": {
+    "pumpPriceULSP": 136.98,
+    "pumpPriceULSD": 143,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/11/2012": {
+    "pumpPriceULSP": 136.43,
+    "pumpPriceULSD": 142.75,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/11/2012": {
+    "pumpPriceULSP": 135.09,
+    "pumpPriceULSD": 141.74,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/11/2012": {
+    "pumpPriceULSP": 134.56,
+    "pumpPriceULSD": 141.33,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/11/2012": {
+    "pumpPriceULSP": 134.38,
+    "pumpPriceULSD": 141.13,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/12/2012": {
+    "pumpPriceULSP": 133.05,
+    "pumpPriceULSD": 140.91,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/12/2012": {
+    "pumpPriceULSP": 132.55,
+    "pumpPriceULSD": 140.76,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/12/2012": {
+    "pumpPriceULSP": 131.98,
+    "pumpPriceULSD": 140.08,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/12/2012": {
+    "pumpPriceULSP": 131.95,
+    "pumpPriceULSD": 139.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "31/12/2012": {
+    "pumpPriceULSP": 131.92,
+    "pumpPriceULSD": 139.81,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/01/2013": {
+    "pumpPriceULSP": 131.86,
+    "pumpPriceULSD": 139.75,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/01/2013": {
+    "pumpPriceULSP": 132,
+    "pumpPriceULSD": 139.68,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/01/2013": {
+    "pumpPriceULSP": 132.21,
+    "pumpPriceULSD": 139.95,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/01/2013": {
+    "pumpPriceULSP": 132.95,
+    "pumpPriceULSD": 140.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/02/2013": {
+    "pumpPriceULSP": 134.38,
+    "pumpPriceULSD": 141.91,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/02/2013": {
+    "pumpPriceULSP": 135.56,
+    "pumpPriceULSD": 143.03,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/02/2013": {
+    "pumpPriceULSP": 136.86,
+    "pumpPriceULSD": 144.17,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/02/2013": {
+    "pumpPriceULSP": 138.5,
+    "pumpPriceULSD": 145.55,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/03/2013": {
+    "pumpPriceULSP": 139.47,
+    "pumpPriceULSD": 146.34,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/03/2013": {
+    "pumpPriceULSP": 140,
+    "pumpPriceULSD": 146.71,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/03/2013": {
+    "pumpPriceULSP": 137.58,
+    "pumpPriceULSD": 144.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/03/2013": {
+    "pumpPriceULSP": 137.09,
+    "pumpPriceULSD": 144.33,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/04/2013": {
+    "pumpPriceULSP": 137.3,
+    "pumpPriceULSD": 143.51,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/04/2013": {
+    "pumpPriceULSP": 137.31,
+    "pumpPriceULSD": 143.13,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/04/2013": {
+    "pumpPriceULSP": 137.11,
+    "pumpPriceULSD": 141.67,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/04/2013": {
+    "pumpPriceULSP": 135.68,
+    "pumpPriceULSD": 140.64,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/04/2013": {
+    "pumpPriceULSP": 134.66,
+    "pumpPriceULSD": 139.59,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/05/2013": {
+    "pumpPriceULSP": 133.42,
+    "pumpPriceULSD": 138.54,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/05/2013": {
+    "pumpPriceULSP": 133.12,
+    "pumpPriceULSD": 138.27,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/05/2013": {
+    "pumpPriceULSP": 133.17,
+    "pumpPriceULSD": 138.42,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/05/2013": {
+    "pumpPriceULSP": 133.64,
+    "pumpPriceULSD": 138.82,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/06/2013": {
+    "pumpPriceULSP": 134.04,
+    "pumpPriceULSD": 139.17,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/06/2013": {
+    "pumpPriceULSP": 134.3,
+    "pumpPriceULSD": 139.43,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/06/2013": {
+    "pumpPriceULSP": 134.46,
+    "pumpPriceULSD": 139.54,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/06/2013": {
+    "pumpPriceULSP": 134.52,
+    "pumpPriceULSD": 139.64,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/07/2013": {
+    "pumpPriceULSP": 133.44,
+    "pumpPriceULSD": 138.51,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/07/2013": {
+    "pumpPriceULSP": 133.77,
+    "pumpPriceULSD": 138.73,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/07/2013": {
+    "pumpPriceULSP": 134.95,
+    "pumpPriceULSD": 139.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/07/2013": {
+    "pumpPriceULSP": 136.04,
+    "pumpPriceULSD": 140.72,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/07/2013": {
+    "pumpPriceULSP": 136.87,
+    "pumpPriceULSD": 141.44,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/08/2013": {
+    "pumpPriceULSP": 137.02,
+    "pumpPriceULSD": 141.67,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/08/2013": {
+    "pumpPriceULSP": 137.13,
+    "pumpPriceULSD": 141.82,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/08/2013": {
+    "pumpPriceULSP": 137,
+    "pumpPriceULSD": 141.73,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/08/2013": {
+    "pumpPriceULSP": 136.83,
+    "pumpPriceULSD": 141.78,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/09/2013": {
+    "pumpPriceULSP": 137.14,
+    "pumpPriceULSD": 142.09,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/09/2013": {
+    "pumpPriceULSP": 137.6,
+    "pumpPriceULSD": 142.67,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/09/2013": {
+    "pumpPriceULSP": 137.47,
+    "pumpPriceULSD": 142.52,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/09/2013": {
+    "pumpPriceULSP": 136.95,
+    "pumpPriceULSD": 142.09,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/09/2013": {
+    "pumpPriceULSP": 133.4,
+    "pumpPriceULSD": 140.19,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/10/2013": {
+    "pumpPriceULSP": 131.62,
+    "pumpPriceULSD": 138.83,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/10/2013": {
+    "pumpPriceULSP": 131.67,
+    "pumpPriceULSD": 139.15,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/10/2013": {
+    "pumpPriceULSP": 131.53,
+    "pumpPriceULSD": 138.99,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/10/2013": {
+    "pumpPriceULSP": 131.42,
+    "pumpPriceULSD": 138.88,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/11/2013": {
+    "pumpPriceULSP": 129.92,
+    "pumpPriceULSD": 137.51,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/11/2013": {
+    "pumpPriceULSP": 129.71,
+    "pumpPriceULSD": 137.32,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/11/2013": {
+    "pumpPriceULSP": 129.89,
+    "pumpPriceULSD": 137.47,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/11/2013": {
+    "pumpPriceULSP": 130.03,
+    "pumpPriceULSD": 137.72,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/12/2013": {
+    "pumpPriceULSP": 130.25,
+    "pumpPriceULSD": 137.9,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/12/2013": {
+    "pumpPriceULSP": 130.76,
+    "pumpPriceULSD": 138.55,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/12/2013": {
+    "pumpPriceULSP": 130.96,
+    "pumpPriceULSD": 138.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/12/2013": {
+    "pumpPriceULSP": 130.05,
+    "pumpPriceULSD": 138.17,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/12/2013": {
+    "pumpPriceULSP": 130.03,
+    "pumpPriceULSD": 137.98,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/01/2014": {
+    "pumpPriceULSP": 130.26,
+    "pumpPriceULSD": 138.11,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/01/2014": {
+    "pumpPriceULSP": 130.36,
+    "pumpPriceULSD": 138.34,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/01/2014": {
+    "pumpPriceULSP": 129.37,
+    "pumpPriceULSD": 137.23,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/01/2014": {
+    "pumpPriceULSP": 129.02,
+    "pumpPriceULSD": 136.94,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/02/2014": {
+    "pumpPriceULSP": 128.85,
+    "pumpPriceULSD": 136.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/02/2014": {
+    "pumpPriceULSP": 128.81,
+    "pumpPriceULSD": 136.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/02/2014": {
+    "pumpPriceULSP": 129.16,
+    "pumpPriceULSD": 136.81,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/02/2014": {
+    "pumpPriceULSP": 129.2,
+    "pumpPriceULSD": 136.95,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/03/2014": {
+    "pumpPriceULSP": 129.36,
+    "pumpPriceULSD": 137.15,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/03/2014": {
+    "pumpPriceULSP": 129.39,
+    "pumpPriceULSD": 137.08,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/03/2014": {
+    "pumpPriceULSP": 128.76,
+    "pumpPriceULSD": 136.27,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/03/2014": {
+    "pumpPriceULSP": 128.57,
+    "pumpPriceULSD": 136,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "31/03/2014": {
+    "pumpPriceULSP": 128.76,
+    "pumpPriceULSD": 135.89,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/04/2014": {
+    "pumpPriceULSP": 128.71,
+    "pumpPriceULSD": 136.01,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/04/2014": {
+    "pumpPriceULSP": 128.89,
+    "pumpPriceULSD": 136.05,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/04/2014": {
+    "pumpPriceULSP": 129.11,
+    "pumpPriceULSD": 136.12,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/04/2014": {
+    "pumpPriceULSP": 129.09,
+    "pumpPriceULSD": 135.93,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/05/2014": {
+    "pumpPriceULSP": 129.27,
+    "pumpPriceULSD": 136.16,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/05/2014": {
+    "pumpPriceULSP": 129.5,
+    "pumpPriceULSD": 136.37,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/05/2014": {
+    "pumpPriceULSP": 129.42,
+    "pumpPriceULSD": 136.17,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/05/2014": {
+    "pumpPriceULSP": 129.51,
+    "pumpPriceULSD": 136.36,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/06/2014": {
+    "pumpPriceULSP": 129.63,
+    "pumpPriceULSD": 136.38,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/06/2014": {
+    "pumpPriceULSP": 129.69,
+    "pumpPriceULSD": 136.04,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/06/2014": {
+    "pumpPriceULSP": 129.88,
+    "pumpPriceULSD": 135.54,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/06/2014": {
+    "pumpPriceULSP": 130.14,
+    "pumpPriceULSD": 135.5,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/06/2014": {
+    "pumpPriceULSP": 130.69,
+    "pumpPriceULSD": 136.04,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/07/2014": {
+    "pumpPriceULSP": 131.1,
+    "pumpPriceULSD": 136.22,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/07/2014": {
+    "pumpPriceULSP": 131.11,
+    "pumpPriceULSD": 136.17,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/07/2014": {
+    "pumpPriceULSP": 131.04,
+    "pumpPriceULSD": 135.69,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/07/2014": {
+    "pumpPriceULSP": 130.83,
+    "pumpPriceULSD": 135.5,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/08/2014": {
+    "pumpPriceULSP": 129.63,
+    "pumpPriceULSD": 134.31,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/08/2014": {
+    "pumpPriceULSP": 129.41,
+    "pumpPriceULSD": 133.85,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/08/2014": {
+    "pumpPriceULSP": 129.29,
+    "pumpPriceULSD": 133.74,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/08/2014": {
+    "pumpPriceULSP": 128.34,
+    "pumpPriceULSD": 133.16,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/09/2014": {
+    "pumpPriceULSP": 128.01,
+    "pumpPriceULSD": 132.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/09/2014": {
+    "pumpPriceULSP": 128.34,
+    "pumpPriceULSD": 133.09,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/09/2014": {
+    "pumpPriceULSP": 128.43,
+    "pumpPriceULSD": 133.13,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/09/2014": {
+    "pumpPriceULSP": 128.62,
+    "pumpPriceULSD": 133.32,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/09/2014": {
+    "pumpPriceULSP": 128.59,
+    "pumpPriceULSD": 133.23,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/10/2014": {
+    "pumpPriceULSP": 126.78,
+    "pumpPriceULSD": 131.43,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/10/2014": {
+    "pumpPriceULSP": 126.5,
+    "pumpPriceULSD": 131.08,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/10/2014": {
+    "pumpPriceULSP": 125.4,
+    "pumpPriceULSD": 130,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/10/2014": {
+    "pumpPriceULSP": 125.11,
+    "pumpPriceULSD": 129.72,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/11/2014": {
+    "pumpPriceULSP": 123.94,
+    "pumpPriceULSD": 128.56,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/11/2014": {
+    "pumpPriceULSP": 122.94,
+    "pumpPriceULSD": 127.59,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/11/2014": {
+    "pumpPriceULSP": 122.5,
+    "pumpPriceULSD": 127.31,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/11/2014": {
+    "pumpPriceULSP": 122.29,
+    "pumpPriceULSD": 127.17,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/12/2014": {
+    "pumpPriceULSP": 121.18,
+    "pumpPriceULSD": 126.11,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/12/2014": {
+    "pumpPriceULSP": 119.83,
+    "pumpPriceULSD": 124.79,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/12/2014": {
+    "pumpPriceULSP": 116.3,
+    "pumpPriceULSD": 122.43,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/12/2014": {
+    "pumpPriceULSP": 113.66,
+    "pumpPriceULSD": 120.81,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/12/2014": {
+    "pumpPriceULSP": 113.16,
+    "pumpPriceULSD": 120.36,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/01/2015": {
+    "pumpPriceULSP": 111.06,
+    "pumpPriceULSD": 117.93,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/01/2015": {
+    "pumpPriceULSP": 108.87,
+    "pumpPriceULSD": 116.22,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/01/2015": {
+    "pumpPriceULSP": 106.83,
+    "pumpPriceULSD": 114.33,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/01/2015": {
+    "pumpPriceULSP": 106.32,
+    "pumpPriceULSD": 113.76,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/02/2015": {
+    "pumpPriceULSP": 106.04,
+    "pumpPriceULSD": 113.61,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/02/2015": {
+    "pumpPriceULSP": 106.35,
+    "pumpPriceULSD": 113.91,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/02/2015": {
+    "pumpPriceULSP": 107.26,
+    "pumpPriceULSD": 114.73,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/02/2015": {
+    "pumpPriceULSP": 108.34,
+    "pumpPriceULSD": 115.74,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/03/2015": {
+    "pumpPriceULSP": 109.2,
+    "pumpPriceULSD": 116.64,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/03/2015": {
+    "pumpPriceULSP": 110.07,
+    "pumpPriceULSD": 117.51,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/03/2015": {
+    "pumpPriceULSP": 111.04,
+    "pumpPriceULSD": 118.26,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/03/2015": {
+    "pumpPriceULSP": 111.65,
+    "pumpPriceULSD": 118.71,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/03/2015": {
+    "pumpPriceULSP": 112.06,
+    "pumpPriceULSD": 118.97,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/04/2015": {
+    "pumpPriceULSP": 112.37,
+    "pumpPriceULSD": 119.09,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/04/2015": {
+    "pumpPriceULSP": 112.52,
+    "pumpPriceULSD": 119.15,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/04/2015": {
+    "pumpPriceULSP": 112.87,
+    "pumpPriceULSD": 119.14,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/04/2015": {
+    "pumpPriceULSP": 113.55,
+    "pumpPriceULSD": 119.58,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/05/2015": {
+    "pumpPriceULSP": 114.27,
+    "pumpPriceULSD": 120,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/05/2015": {
+    "pumpPriceULSP": 115.1,
+    "pumpPriceULSD": 120.59,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/05/2015": {
+    "pumpPriceULSP": 115.74,
+    "pumpPriceULSD": 121.04,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/05/2015": {
+    "pumpPriceULSP": 116.02,
+    "pumpPriceULSD": 121.32,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/06/2015": {
+    "pumpPriceULSP": 116.13,
+    "pumpPriceULSD": 121.3,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/06/2015": {
+    "pumpPriceULSP": 116.26,
+    "pumpPriceULSD": 121.34,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/06/2015": {
+    "pumpPriceULSP": 116.39,
+    "pumpPriceULSD": 121.3,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/06/2015": {
+    "pumpPriceULSP": 116.6,
+    "pumpPriceULSD": 121.21,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/06/2015": {
+    "pumpPriceULSP": 116.55,
+    "pumpPriceULSD": 120.99,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/07/2015": {
+    "pumpPriceULSP": 116.34,
+    "pumpPriceULSD": 120.76,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/07/2015": {
+    "pumpPriceULSP": 116.41,
+    "pumpPriceULSD": 118.83,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/07/2015": {
+    "pumpPriceULSP": 116.79,
+    "pumpPriceULSD": 118.43,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/07/2015": {
+    "pumpPriceULSP": 116.44,
+    "pumpPriceULSD": 116.95,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/08/2015": {
+    "pumpPriceULSP": 116.12,
+    "pumpPriceULSD": 115.17,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/08/2015": {
+    "pumpPriceULSP": 115.48,
+    "pumpPriceULSD": 114.2,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/08/2015": {
+    "pumpPriceULSP": 114.58,
+    "pumpPriceULSD": 112.05,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/08/2015": {
+    "pumpPriceULSP": 113.23,
+    "pumpPriceULSD": 111.05,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "31/08/2015": {
+    "pumpPriceULSP": 111.21,
+    "pumpPriceULSD": 109.92,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/09/2015": {
+    "pumpPriceULSP": 110.9,
+    "pumpPriceULSD": 109.78,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/09/2015": {
+    "pumpPriceULSP": 110.6,
+    "pumpPriceULSD": 109.95,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/09/2015": {
+    "pumpPriceULSP": 110.61,
+    "pumpPriceULSD": 110.52,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/09/2015": {
+    "pumpPriceULSP": 109.47,
+    "pumpPriceULSD": 110.45,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/10/2015": {
+    "pumpPriceULSP": 108.94,
+    "pumpPriceULSD": 110.57,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/10/2015": {
+    "pumpPriceULSP": 108.97,
+    "pumpPriceULSD": 110.78,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/10/2015": {
+    "pumpPriceULSP": 109.01,
+    "pumpPriceULSD": 111.17,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/10/2015": {
+    "pumpPriceULSP": 108.04,
+    "pumpPriceULSD": 110.61,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/11/2015": {
+    "pumpPriceULSP": 107.21,
+    "pumpPriceULSD": 110.14,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/11/2015": {
+    "pumpPriceULSP": 107.14,
+    "pumpPriceULSD": 110.08,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/11/2015": {
+    "pumpPriceULSP": 107.36,
+    "pumpPriceULSD": 110.32,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/11/2015": {
+    "pumpPriceULSP": 107.29,
+    "pumpPriceULSD": 110.27,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/11/2015": {
+    "pumpPriceULSP": 106.97,
+    "pumpPriceULSD": 110.01,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/12/2015": {
+    "pumpPriceULSP": 106.75,
+    "pumpPriceULSD": 109.92,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/12/2015": {
+    "pumpPriceULSP": 104,
+    "pumpPriceULSD": 108.07,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/12/2015": {
+    "pumpPriceULSP": 102.33,
+    "pumpPriceULSD": 107.04,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/12/2015": {
+    "pumpPriceULSP": 102.11,
+    "pumpPriceULSD": 106.43,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/01/2016": {
+    "pumpPriceULSP": 102,
+    "pumpPriceULSD": 106.32,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/01/2016": {
+    "pumpPriceULSP": 101.89,
+    "pumpPriceULSD": 103.41,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/01/2016": {
+    "pumpPriceULSP": 101.8,
+    "pumpPriceULSD": 102.81,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/01/2016": {
+    "pumpPriceULSP": 101.42,
+    "pumpPriceULSD": 101.54,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/02/2016": {
+    "pumpPriceULSP": 101.36,
+    "pumpPriceULSD": 100.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/02/2016": {
+    "pumpPriceULSP": 101.51,
+    "pumpPriceULSD": 101.14,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/02/2016": {
+    "pumpPriceULSP": 101.45,
+    "pumpPriceULSD": 101.21,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/02/2016": {
+    "pumpPriceULSP": 101.39,
+    "pumpPriceULSD": 101.13,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/02/2016": {
+    "pumpPriceULSP": 101.42,
+    "pumpPriceULSD": 101.38,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/03/2016": {
+    "pumpPriceULSP": 101.46,
+    "pumpPriceULSD": 101.67,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/03/2016": {
+    "pumpPriceULSP": 101.71,
+    "pumpPriceULSD": 102.52,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/03/2016": {
+    "pumpPriceULSP": 102.58,
+    "pumpPriceULSD": 103.64,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/03/2016": {
+    "pumpPriceULSP": 103.4,
+    "pumpPriceULSD": 104.4,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/04/2016": {
+    "pumpPriceULSP": 104.51,
+    "pumpPriceULSD": 105.32,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/04/2016": {
+    "pumpPriceULSP": 105.39,
+    "pumpPriceULSD": 105.98,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/04/2016": {
+    "pumpPriceULSP": 106.41,
+    "pumpPriceULSD": 106.97,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/04/2016": {
+    "pumpPriceULSP": 107.14,
+    "pumpPriceULSD": 107.67,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/05/2016": {
+    "pumpPriceULSP": 107.82,
+    "pumpPriceULSD": 108.58,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/05/2016": {
+    "pumpPriceULSP": 108.19,
+    "pumpPriceULSD": 109,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/05/2016": {
+    "pumpPriceULSP": 108.53,
+    "pumpPriceULSD": 109.3,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/05/2016": {
+    "pumpPriceULSP": 109.12,
+    "pumpPriceULSD": 109.9,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/05/2016": {
+    "pumpPriceULSP": 109.79,
+    "pumpPriceULSD": 110.7,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/06/2016": {
+    "pumpPriceULSP": 110.4,
+    "pumpPriceULSD": 111.43,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/06/2016": {
+    "pumpPriceULSP": 111.03,
+    "pumpPriceULSD": 111.99,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/06/2016": {
+    "pumpPriceULSP": 111.22,
+    "pumpPriceULSD": 112.31,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/06/2016": {
+    "pumpPriceULSP": 111.44,
+    "pumpPriceULSD": 112.56,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/07/2016": {
+    "pumpPriceULSP": 111.65,
+    "pumpPriceULSD": 112.86,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/07/2016": {
+    "pumpPriceULSP": 111.89,
+    "pumpPriceULSD": 113.09,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/07/2016": {
+    "pumpPriceULSP": 111.92,
+    "pumpPriceULSD": 113,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/07/2016": {
+    "pumpPriceULSP": 111.69,
+    "pumpPriceULSD": 112.89,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/08/2016": {
+    "pumpPriceULSP": 111.05,
+    "pumpPriceULSD": 112.43,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/08/2016": {
+    "pumpPriceULSP": 109.75,
+    "pumpPriceULSD": 111.4,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/08/2016": {
+    "pumpPriceULSP": 109.28,
+    "pumpPriceULSD": 111.02,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/08/2016": {
+    "pumpPriceULSP": 109.63,
+    "pumpPriceULSD": 111.71,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/08/2016": {
+    "pumpPriceULSP": 110.43,
+    "pumpPriceULSD": 112.55,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/09/2016": {
+    "pumpPriceULSP": 110.97,
+    "pumpPriceULSD": 113.1,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/09/2016": {
+    "pumpPriceULSP": 111.31,
+    "pumpPriceULSD": 113.42,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/09/2016": {
+    "pumpPriceULSP": 111.29,
+    "pumpPriceULSD": 113.23,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/09/2016": {
+    "pumpPriceULSP": 111.36,
+    "pumpPriceULSD": 113.38,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/10/2016": {
+    "pumpPriceULSP": 111.65,
+    "pumpPriceULSD": 113.71,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/10/2016": {
+    "pumpPriceULSP": 112.35,
+    "pumpPriceULSD": 114.4,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/10/2016": {
+    "pumpPriceULSP": 113.72,
+    "pumpPriceULSD": 116,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/10/2016": {
+    "pumpPriceULSP": 115.2,
+    "pumpPriceULSD": 117.7,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "31/10/2016": {
+    "pumpPriceULSP": 116.02,
+    "pumpPriceULSD": 118.42,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/11/2016": {
+    "pumpPriceULSP": 116.56,
+    "pumpPriceULSD": 119.03,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/11/2016": {
+    "pumpPriceULSP": 116.5,
+    "pumpPriceULSD": 118.82,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/11/2016": {
+    "pumpPriceULSP": 114.71,
+    "pumpPriceULSD": 117.42,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/11/2016": {
+    "pumpPriceULSP": 113.72,
+    "pumpPriceULSD": 116.57,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/12/2016": {
+    "pumpPriceULSP": 113.66,
+    "pumpPriceULSD": 116.75,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/12/2016": {
+    "pumpPriceULSP": 114.23,
+    "pumpPriceULSD": 117.51,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/12/2016": {
+    "pumpPriceULSP": 115,
+    "pumpPriceULSD": 118.61,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/12/2016": {
+    "pumpPriceULSP": 115.45,
+    "pumpPriceULSD": 119.03,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/01/2017": {
+    "pumpPriceULSP": 117,
+    "pumpPriceULSD": 120.03,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/01/2017": {
+    "pumpPriceULSP": 117.98,
+    "pumpPriceULSD": 121.3,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/01/2017": {
+    "pumpPriceULSP": 118.63,
+    "pumpPriceULSD": 122.1,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/01/2017": {
+    "pumpPriceULSP": 119.43,
+    "pumpPriceULSD": 122.75,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/01/2017": {
+    "pumpPriceULSP": 120.01,
+    "pumpPriceULSD": 123.19,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/02/2017": {
+    "pumpPriceULSP": 120.18,
+    "pumpPriceULSD": 123.25,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/02/2017": {
+    "pumpPriceULSP": 120.15,
+    "pumpPriceULSD": 123.17,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/02/2017": {
+    "pumpPriceULSP": 120.2,
+    "pumpPriceULSD": 123.15,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/02/2017": {
+    "pumpPriceULSP": 120.12,
+    "pumpPriceULSD": 123.06,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/03/2017": {
+    "pumpPriceULSP": 120.02,
+    "pumpPriceULSD": 122.9,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/03/2017": {
+    "pumpPriceULSP": 119.8,
+    "pumpPriceULSD": 122.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/03/2017": {
+    "pumpPriceULSP": 118.95,
+    "pumpPriceULSD": 121.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/03/2017": {
+    "pumpPriceULSP": 118.03,
+    "pumpPriceULSD": 121.08,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/04/2017": {
+    "pumpPriceULSP": 116.93,
+    "pumpPriceULSD": 119.92,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/04/2017": {
+    "pumpPriceULSP": 117.02,
+    "pumpPriceULSD": 119.98,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/04/2017": {
+    "pumpPriceULSP": 117.54,
+    "pumpPriceULSD": 120.36,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/04/2017": {
+    "pumpPriceULSP": 118.15,
+    "pumpPriceULSD": 120.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/05/2017": {
+    "pumpPriceULSP": 118.08,
+    "pumpPriceULSD": 120.78,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/05/2017": {
+    "pumpPriceULSP": 117.06,
+    "pumpPriceULSD": 119.34,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/05/2017": {
+    "pumpPriceULSP": 115.6,
+    "pumpPriceULSD": 117.65,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/05/2017": {
+    "pumpPriceULSP": 115.67,
+    "pumpPriceULSD": 117.76,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/05/2017": {
+    "pumpPriceULSP": 115.79,
+    "pumpPriceULSD": 117.88,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/06/2017": {
+    "pumpPriceULSP": 115.82,
+    "pumpPriceULSD": 117.95,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/06/2017": {
+    "pumpPriceULSP": 115.69,
+    "pumpPriceULSD": 117.76,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/06/2017": {
+    "pumpPriceULSP": 115.12,
+    "pumpPriceULSD": 117.18,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/06/2017": {
+    "pumpPriceULSP": 114.43,
+    "pumpPriceULSD": 116.26,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/07/2017": {
+    "pumpPriceULSP": 113.74,
+    "pumpPriceULSD": 115.63,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/07/2017": {
+    "pumpPriceULSP": 113.58,
+    "pumpPriceULSD": 115.29,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/07/2017": {
+    "pumpPriceULSP": 113.89,
+    "pumpPriceULSD": 115.58,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/07/2017": {
+    "pumpPriceULSP": 113.99,
+    "pumpPriceULSD": 115.73,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "31/07/2017": {
+    "pumpPriceULSP": 114.16,
+    "pumpPriceULSD": 115.99,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/08/2017": {
+    "pumpPriceULSP": 114.78,
+    "pumpPriceULSD": 116.64,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/08/2017": {
+    "pumpPriceULSP": 115.53,
+    "pumpPriceULSD": 117.43,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/08/2017": {
+    "pumpPriceULSP": 116.04,
+    "pumpPriceULSD": 118.05,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/08/2017": {
+    "pumpPriceULSP": 116.4,
+    "pumpPriceULSD": 118.24,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/09/2017": {
+    "pumpPriceULSP": 116.95,
+    "pumpPriceULSD": 118.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/09/2017": {
+    "pumpPriceULSP": 118.14,
+    "pumpPriceULSD": 119.94,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/09/2017": {
+    "pumpPriceULSP": 118.85,
+    "pumpPriceULSD": 120.59,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/09/2017": {
+    "pumpPriceULSP": 118.87,
+    "pumpPriceULSD": 120.92,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/10/2017": {
+    "pumpPriceULSP": 118.13,
+    "pumpPriceULSD": 120.37,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/10/2017": {
+    "pumpPriceULSP": 117.16,
+    "pumpPriceULSD": 120.51,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/10/2017": {
+    "pumpPriceULSP": 117.01,
+    "pumpPriceULSD": 120.42,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/10/2017": {
+    "pumpPriceULSP": 117.04,
+    "pumpPriceULSD": 120.65,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/10/2017": {
+    "pumpPriceULSP": 117.06,
+    "pumpPriceULSD": 120.63,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/11/2017": {
+    "pumpPriceULSP": 117.57,
+    "pumpPriceULSD": 121.27,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/11/2017": {
+    "pumpPriceULSP": 118.91,
+    "pumpPriceULSD": 122.69,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/11/2017": {
+    "pumpPriceULSP": 119.67,
+    "pumpPriceULSD": 123.32,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/11/2017": {
+    "pumpPriceULSP": 120.13,
+    "pumpPriceULSD": 123.79,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/12/2017": {
+    "pumpPriceULSP": 119.75,
+    "pumpPriceULSD": 123.21,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/12/2017": {
+    "pumpPriceULSP": 119.91,
+    "pumpPriceULSD": 123.69,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/12/2017": {
+    "pumpPriceULSP": 119.98,
+    "pumpPriceULSD": 123.81,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/12/2017": {
+    "pumpPriceULSP": 120,
+    "pumpPriceULSD": 123.43,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/01/2018": {
+    "pumpPriceULSP": 120.19,
+    "pumpPriceULSD": 123.51,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/01/2018": {
+    "pumpPriceULSP": 120.52,
+    "pumpPriceULSD": 123.97,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/01/2018": {
+    "pumpPriceULSP": 120.96,
+    "pumpPriceULSD": 124.58,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/01/2018": {
+    "pumpPriceULSP": 121.5,
+    "pumpPriceULSD": 125.07,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/01/2018": {
+    "pumpPriceULSP": 121.69,
+    "pumpPriceULSD": 125.32,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/02/2018": {
+    "pumpPriceULSP": 121.73,
+    "pumpPriceULSD": 125.36,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/02/2018": {
+    "pumpPriceULSP": 121.58,
+    "pumpPriceULSD": 125.02,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/02/2018": {
+    "pumpPriceULSP": 120.52,
+    "pumpPriceULSD": 124.18,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/02/2018": {
+    "pumpPriceULSP": 119.55,
+    "pumpPriceULSD": 123.09,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/03/2018": {
+    "pumpPriceULSP": 119.29,
+    "pumpPriceULSD": 122.92,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/03/2018": {
+    "pumpPriceULSP": 119.11,
+    "pumpPriceULSD": 122.96,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/03/2018": {
+    "pumpPriceULSP": 119.17,
+    "pumpPriceULSD": 122.84,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/03/2018": {
+    "pumpPriceULSP": 119.23,
+    "pumpPriceULSD": 122.9,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/04/2018": {
+    "pumpPriceULSP": 119.43,
+    "pumpPriceULSD": 123.05,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/04/2018": {
+    "pumpPriceULSP": 119.96,
+    "pumpPriceULSD": 123.58,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/04/2018": {
+    "pumpPriceULSP": 120.56,
+    "pumpPriceULSD": 124.29,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/04/2018": {
+    "pumpPriceULSP": 121.44,
+    "pumpPriceULSD": 125.39,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/04/2018": {
+    "pumpPriceULSP": 122.22,
+    "pumpPriceULSD": 126.01,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/05/2018": {
+    "pumpPriceULSP": 123.27,
+    "pumpPriceULSD": 126.99,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/05/2018": {
+    "pumpPriceULSP": 124.32,
+    "pumpPriceULSD": 128.28,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/05/2018": {
+    "pumpPriceULSP": 125.93,
+    "pumpPriceULSD": 130.04,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/05/2018": {
+    "pumpPriceULSP": 127.58,
+    "pumpPriceULSD": 131.66,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "04/06/2018": {
+    "pumpPriceULSP": 128.43,
+    "pumpPriceULSD": 132.34,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "11/06/2018": {
+    "pumpPriceULSP": 128.61,
+    "pumpPriceULSD": 132.62,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "18/06/2018": {
+    "pumpPriceULSP": 127.92,
+    "pumpPriceULSD": 131.98,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "25/06/2018": {
+    "pumpPriceULSP": 127.18,
+    "pumpPriceULSD": 131.27,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "02/07/2018": {
+    "pumpPriceULSP": 126.54,
+    "pumpPriceULSD": 130.83,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "09/07/2018": {
+    "pumpPriceULSP": 126.97,
+    "pumpPriceULSD": 131.53,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "16/07/2018": {
+    "pumpPriceULSP": 127.47,
+    "pumpPriceULSD": 131.85,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "23/07/2018": {
+    "pumpPriceULSP": 127.5,
+    "pumpPriceULSD": 131.9,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "30/07/2018": {
+    "pumpPriceULSP": 127.54,
+    "pumpPriceULSD": 131.94,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "06/08/2018": {
+    "pumpPriceULSP": 128.02,
+    "pumpPriceULSD": 132.39,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "13/08/2018": {
+    "pumpPriceULSP": 128.39,
+    "pumpPriceULSD": 132.56,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "20/08/2018": {
+    "pumpPriceULSP": 128.79,
+    "pumpPriceULSD": 132.97,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "27/08/2018": {
+    "pumpPriceULSP": 129.18,
+    "pumpPriceULSD": 133.2,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/09/2018": {
+    "pumpPriceULSP": 129.76,
+    "pumpPriceULSD": 133.67,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/09/2018": {
+    "pumpPriceULSP": 130.24,
+    "pumpPriceULSD": 134.31,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/09/2018": {
+    "pumpPriceULSP": 130.59,
+    "pumpPriceULSD": 134.57,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/09/2018": {
+    "pumpPriceULSP": 130.59,
+    "pumpPriceULSD": 134.77,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "01/10/2018": {
+    "pumpPriceULSP": 129.98,
+    "pumpPriceULSD": 134.86,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "08/10/2018": {
+    "pumpPriceULSP": 130.15,
+    "pumpPriceULSD": 135.53,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "15/10/2018": {
+    "pumpPriceULSP": 130.81,
+    "pumpPriceULSD": 136.63,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "22/10/2018": {
+    "pumpPriceULSP": 130.98,
+    "pumpPriceULSD": 136.93,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "29/10/2018": {
+    "pumpPriceULSP": 130.64,
+    "pumpPriceULSD": 136.99,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "05/11/2018": {
+    "pumpPriceULSP": 130.11,
+    "pumpPriceULSD": 137.03,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "12/11/2018": {
+    "pumpPriceULSP": 128.94,
+    "pumpPriceULSD": 137.08,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "19/11/2018": {
+    "pumpPriceULSP": 127.4,
+    "pumpPriceULSD": 136.38,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "26/11/2018": {
+    "pumpPriceULSP": 125.77,
+    "pumpPriceULSD": 135.43,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "03/12/2018": {
+    "pumpPriceULSP": 124.3,
+    "pumpPriceULSD": 134.38,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "10/12/2018": {
+    "pumpPriceULSP": 122.37,
+    "pumpPriceULSD": 132.5,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "17/12/2018": {
+    "pumpPriceULSP": 121.02,
+    "pumpPriceULSD": 131.26,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "24/12/2018": {
+    "pumpPriceULSP": 120.61,
+    "pumpPriceULSD": 130.91,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "31/12/2018": {
+    "pumpPriceULSP": 120.18,
+    "pumpPriceULSD": 130.26,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "07/01/2019": {
+    "pumpPriceULSP": 120.27,
+    "pumpPriceULSD": 130.33,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "14/01/2019": {
+    "pumpPriceULSP": 119.53,
+    "pumpPriceULSD": 129.47,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "21/01/2019": {
+    "pumpPriceULSP": 119.12,
+    "pumpPriceULSD": 128.92,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  },
+  "28/01/2019": {
+    "pumpPriceULSP": 119.29,
+    "pumpPriceULSD": 129.1,
+    "dutyRateULSP": 57.95,
+    "dutyRateULSD": 57.95,
+    "vatRateULSP": 20,
+    "vatRateULSD": 20,
+    "notes": "",
+    "rate": ""
+  }
+}
