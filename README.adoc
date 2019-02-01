@@ -9,6 +9,7 @@
 I (heavily) based this on https://spring.io/guides/gs/spring-boot-docker/ as I wanted to create a Docker image for a Spring Boot app.
 
 The app has some limitations...
+
 * exact dates must be used
 * not much in the way of helpful error messages, e.g. invalid fuel type.
 * no real tests, I've been using use https://github.com/apickli/apickli for the last few years
